@@ -1,6 +1,5 @@
 
 const Header = ({ movies, query, setQuery }) => {
-
     return (
         <header>
             <nav className='nav-bar'>
